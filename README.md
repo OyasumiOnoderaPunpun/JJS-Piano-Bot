@@ -64,7 +64,6 @@ python jjs_piano_gui.py
 
 ## 🎵 Song List
 
-### Advanced Mode
 | # | Song | BPM |
 |---|------|-----|
 | 1 | Megalovania | 160 |
@@ -89,7 +88,6 @@ python jjs_piano_gui.py
 | 20 | Hollow Purple | 120 |
 | 21 | Malevolent Shrine | 130 |
 
-### Simple Mode
 | # | Song | BPM |
 |---|------|-----|
 | 22 | KaiKai Kitan - JJK OP | 140 |
