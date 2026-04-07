@@ -1,6 +1,7 @@
 # 🎹 JJS Piano Bot
 
 **Auto-play piano sheets in Jujutsu Shenanigans (Roblox)**
+**NOTE: How good or bad the songs turns out entirely depends on the sheet provided, the pre-added 30 songs were used for testing and may or may not be upto the mark**
 
 A Windows desktop app that plays piano emote songs automatically using DirectInput scan codes — the same signals Roblox reads from your keyboard, so it *actually works*.
 
